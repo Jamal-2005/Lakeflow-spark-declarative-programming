@@ -223,9 +223,16 @@ goodcabs-transportation/
 ---
 
 ## 🙏 Acknowledgements
-
 Project inspired by the **Codebasics** *End-to-End Data Engineering with Databricks Free Edition* micro-course by Dhaval Patel and Hem Vad.
 
 ---
 
 *Built with ❤️ on Databricks Free Edition — no cluster bills were harmed in the making of this project.*
+
+<img width="1917" height="913" alt="bronze_pipeline" src="https://github.com/user-attachments/assets/595c67e0-c35e-492c-8c54-7e473dd70321" />
+<img width="2894" height="1440" alt="architecture" src="https://github.com/user-attachments/assets/fb05c40b-e31f-42cc-b2b4-8a10827f4865" />
+<img width="1919" height="904" alt="s3_bucket" src="https://github.com/user-attachments/assets/9f1ab780-e3d0-4e33-825d-8380814c63af" />
+<img width="975" height="484" alt="pipeline_flow" src="https://github.com/user-attachments/assets/34dc27f9-e84c-4ab6-8931-dd5914edfe1f" />
+<img width="1913" height="916" alt="full_pipeline" src="https://github.com/user-attachments/assets/87f11b90-8b8b-4c0a-820f-6fed725117ce" />
+
+
